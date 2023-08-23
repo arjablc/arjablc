@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjablc" alt="arjablc" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@arjablcbusiness](https://medium.com/@arjablcbusiness)
+- 📝Blog: [https://medium.com/@arjablcbusiness](https://medium.com/@arjablcbusiness)
 
 - 📫 How to reach me **arjablc@gmail.com**
 
