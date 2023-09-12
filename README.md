@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjab Lc</h1>
 <h3 align="center">Full stack flutter developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjablc" alt="arjablc" /></a> </p>
 
 - 📝Blog: [https://medium.com/@arjablcbusiness](https://medium.com/@arjablcbusiness)
 
