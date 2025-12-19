@@ -14,8 +14,8 @@
 
 arjab@github
 ------------
-Name: Arjab
-Role: Full Stack Developer & Systems Enthusiast
+Name: Arjab  
+Role: Full Stack Developer & Systems Enthusiast 
 
 Languages
 ---------
@@ -28,14 +28,15 @@ Rust
 
 Interests
 ---------
-→ Linux ricing & customization
-→ AI & Data Science
-→ Automation & tooling
-→ System architecture
+→ Linux ricing & customization  
+→ AI & Data Science  
+→ Automation & tooling  
+→ System architecture  
 
 Links
 -----
-boot.dev: https://www.boot.dev/u/kn0t
-linkedIn: https://www.linkedin.com/in/arjablamichhane/
+[linkedIn](https://www.linkedin.com/in/arjablamichhane/)  
+[mail](mailto:arjablc.03@gmail.com)  
+[boot.dev](https://www.boot.dev/u/kn0t)  
 
 $ curl -L arjab.dev || echo "Building something awesome..."
