@@ -1,25 +1,40 @@
-~~~txt
-███████╗██████╗      ██████╗ ██╗
-██╔════╝██╔══██╗    ██╔════╝ ██║
-█████╗  ██████╔╝    ██║  ███╗██║
-██╔══╝  ██╔══██╗    ██║   ██║██║
-███████╗██║  ██║    ╚██████╔╝███████╗
-╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝
-~~~
-<div style="font-family:monospace">
+            ██╗  ██╗    ███╗   ██╗     ██████╗     ████████╗        arjab@github
+            ██║ ██╔╝    ████╗  ██║    ██╔═████╗    ╚══██╔══╝        -------------
+            █████╔╝     ██╔██╗ ██║    ██║██╔██║       ██║           OS: Arch Linux
+            ██╔═██╗     ██║╚██╗██║    ████╔╝██║       ██║           Host: Developer Workstation
+            ██║  ██╗    ██║ ╚████║    ╚██████╔╝       ██║           Kernel: 6.7.2-arch1-1
+            ╚═╝  ╚═╝    ╚═╝  ╚═══╝     ╚═════╝        ╚═╝           Uptime: 2567 days
+                                                                     Shell: zsh 5.9
+                                                                     WM: Hyprland
+                                                                     Editor: Neovim
+                                                                     Terminal: kitty
+                                                                     
+                                                                     ████████████████████████
+                                                                     ████████████████████████
 
-<p>
-<span style="color:#50fa7b;">$ ssh arjab@github --secure</span><br>
-[OK] connection established<br>
-[OK] user profile loaded
-</p>
+arjab@github
+------------
+Name: Arjab
+Role: Full Stack Developer & Systems Enthusiast
 
-<p>
-<span style="color:#8be9fd;">$ ./intro --quick</span><br>
-Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Arjab Lamichhane<br>
-Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Flutter • Go • Python • JS/TS • C • Rust<br>
-Interests&nbsp;: Linux ricing • AI/DS • automation • tooling<br>
-Editor/WM : Neovim • Hyprland
-</p>
+Languages
+---------
+Flutter
+Go
+Python
+JS/TS
+C
+Rust
 
-</div>
+Interests
+---------
+→ Linux ricing & customization
+→ AI & Data Science
+→ Automation & tooling
+→ System architecture
+
+Links
+-----
+boot.dev: https://www.boot.dev/u/kn0t
+
+$ curl -L arjab.dev || echo "Building something awesome..."
