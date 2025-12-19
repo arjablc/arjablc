@@ -36,5 +36,6 @@ Interests
 Links
 -----
 boot.dev: https://www.boot.dev/u/kn0t
+linkedIn: https://www.linkedin.com/in/arjablamichhane/
 
 $ curl -L arjab.dev || echo "Building something awesome..."
