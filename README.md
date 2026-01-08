@@ -1,37 +1,15 @@
-            ██╗  ██╗    ███╗   ██╗     ██████╗     ████████╗        arjab@github
-            ██║ ██╔╝    ████╗  ██║    ██╔═████╗    ╚══██╔══╝        -------------
-            █████╔╝     ██╔██╗ ██║    ██║██╔██║       ██║           OS: Arch Linux
-            ██╔═██╗     ██║╚██╗██║    ████╔╝██║       ██║           Host: Developer Workstation
-            ██║  ██╗    ██║ ╚████║    ╚██████╔╝       ██║           Kernel: 6.7.2-arch1-1
-            ╚═╝  ╚═╝    ╚═╝  ╚═══╝     ╚═════╝        ╚═╝           Uptime: 2567 days
-                                                                     Shell: zsh 5.9
-                                                                     WM: Hyprland
-                                                                     Editor: Neovim
-                                                                     Terminal: kitty
-                                                                     
-                                                                     ████████████████████████
-                                                                     ████████████████████████
-
-arjab@github
-------------
-Name: Arjab  
-Role: Full Stack Developer & Systems Enthusiast 
-
-Languages
----------
-Flutter
-Go
-Python
-JS/TS
-C
-Rust
-
-Interests
----------
-→ Linux ricing & customization  
-→ AI & Data Science  
-→ Automation & tooling  
-→ System architecture  
+██╗  ██╗    ███╗   ██╗     ██████╗     ████████╗        arjab@github
+██║ ██╔╝    ████╗  ██║    ██╔═████╗    ╚══██╔══╝        -------------
+█████╔╝     ██╔██╗ ██║    ██║██╔██║       ██║           Status: Building & Learning
+██╔═██╗     ██║╚██╗██║    ████╔╝██║       ██║           Location: Kathmandu, NP
+██║  ██╗    ██║ ╚████║    ╚██████╔╝       ██║           
+╚═╝  ╚═╝    ╚═╝  ╚═══╝     ╚═════╝        ╚═╝           Languages: JS, TS, Python, Go, Dart
+                                                         Frameworks: Flutter, Node, NestJS
+                                                         Technology: Docker, Firebase, SQL, Linux
+                                                         Neovim
+                                                         
+                                                         ████████████████████████
+                                                         ████████████████████████
 
 Links
 -----
